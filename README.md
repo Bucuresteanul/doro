@@ -12,11 +12,11 @@ d'ORO is an evolving venture connecting a physical asset, brand development and 
 
 ## Current State
 
-This repository now serves as a public project hub for d'ORO while preserving its earlier technical history.
+This repository serves as a public project hub for d'ORO while preserving its earlier technical history.
 
-The legacy application code in this repository comes from an earlier exploratory Remix / Netlify phase. It is retained intentionally as part of the project's history.
+The codebase contains material from an earlier exploratory Remix / Netlify phase. That legacy material is retained intentionally and must not be interpreted as the current production implementation of d'ORO.
 
-No claim is made that this legacy codebase represents the current production implementation of d'ORO.
+The original README from that phase is preserved in [LEGACY-README.md](./LEGACY-README.md).
 
 ---
 
@@ -24,15 +24,13 @@ No claim is made that this legacy codebase represents the current production imp
 
 ### THEN — 2023
 
-This repository originated from an exploratory Remix / Netlify application stack during an earlier period of digital experimentation.
-
-The original code and commit history are intentionally preserved.
+The repository began as an exploratory Remix / Netlify application based on an existing starter stack.
 
 ### TRANSITION
 
-The direction evolved beyond the original technical experiment toward the current d'ORO venture.
+The direction evolved beyond that technical experiment toward the current d'ORO venture.
 
-Rather than erase the repository history, this repository is being reoriented to document that evolution transparently.
+The repository history is preserved rather than rewritten.
 
 ### NOW
 
@@ -49,15 +47,14 @@ Public website: https://doro.vip
 
 ## Repository Scope
 
-This repository can serve as a home for public material that is genuinely relevant to d'ORO, including:
+Public material may be added here when it genuinely belongs to d'ORO, including:
 
-- historical implementation material
-- current project documentation
+- project documentation
 - architecture and decision records
-- research relevant to the venture
-- future public technical artifacts when appropriate
+- relevant research
+- future public technical artifacts
 
-Legacy code should be read as historical material unless explicitly documented otherwise.
+Legacy code remains historical unless explicitly documented otherwise.
 
 ---
 
