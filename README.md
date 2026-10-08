@@ -20,11 +20,20 @@ The original README from that phase is preserved in [LEGACY-README.md](./LEGACY-
 
 ---
 
+## Public Evidence
+
+- Website: https://doro.vip
+- Current BanIKa profile: https://github.com/Bucuresteanul
+
+No revenue, customer, deployment or traction claims are made here unless independently documented.
+
+---
+
 ## Project Evolution
 
 ### THEN — 2023
 
-The repository began as an exploratory Remix / Netlify application based on an existing starter stack.
+The repository began as an exploratory Remix / Netlify application based on the Remix K-pop Stack starter.
 
 ### TRANSITION
 
@@ -40,8 +49,6 @@ d'ORO is currently presented as a venture spanning:
 - brand development
 - digital ecosystem
 - ongoing strategic development
-
-Public website: https://doro.vip
 
 ---
 
