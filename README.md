@@ -12,18 +12,23 @@ d'ORO is an evolving venture connecting a physical asset, brand development and 
 
 ## Current State
 
-This repository serves as a public project hub for d'ORO while preserving its earlier technical history.
+The default branch is intentionally documentation-first.
 
-The codebase contains material from an earlier exploratory Remix / Netlify phase. That legacy material is retained intentionally and must not be interpreted as the current production implementation of d'ORO.
+The earlier Remix / Netlify codebase has been preserved separately in the historical branch:
 
-The original README from that phase is preserved in [LEGACY-README.md](./LEGACY-README.md).
+`legacy/2023-remix-netlify`
+
+That code belongs to an earlier experimental phase and is **not** presented as the current production implementation of d'ORO.
+
+The original technical README from that phase is also preserved in [LEGACY-README.md](./LEGACY-README.md).
 
 ---
 
 ## Public Evidence
 
 - Website: https://doro.vip
-- Current BanIKa profile: https://github.com/Bucuresteanul
+- BanIKa profile: https://github.com/Bucuresteanul
+- Historical source branch: `legacy/2023-remix-netlify`
 
 No revenue, customer, deployment or traction claims are made here unless independently documented.
 
@@ -33,13 +38,13 @@ No revenue, customer, deployment or traction claims are made here unless indepen
 
 ### THEN — 2023
 
-The repository began as an exploratory Remix / Netlify application based on the Remix K-pop Stack starter.
+This repository began as an exploratory Remix / Netlify application based on an existing starter stack.
 
 ### TRANSITION
 
 The direction evolved beyond that technical experiment toward the current d'ORO venture.
 
-The repository history is preserved rather than rewritten.
+The historical code and commit history were preserved rather than rewritten.
 
 ### NOW
 
@@ -54,14 +59,13 @@ d'ORO is currently presented as a venture spanning:
 
 ## Repository Scope
 
-Public material may be added here when it genuinely belongs to d'ORO, including:
+The default branch is reserved for current public documentation and future artifacts that genuinely belong to d'ORO.
 
-- project documentation
-- architecture and decision records
-- relevant research
-- future public technical artifacts
+See:
 
-Legacy code remains historical unless explicitly documented otherwise.
+- [Current State](./docs/CURRENT-STATE.md)
+- [Project Evolution](./docs/EVOLUTION.md)
+- [Legacy README](./LEGACY-README.md)
 
 ---
 
